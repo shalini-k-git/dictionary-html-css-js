@@ -54,10 +54,6 @@ fetch(`https://api.dictionaryapi.dev/api/v2/entries/en/${word}`)
 
 ---
 
-https://shalini-k-git.github.io/dictionary-html-css-js/
-
----
-
 ## 👩‍💻 Author
 **Shalini K**  
 
