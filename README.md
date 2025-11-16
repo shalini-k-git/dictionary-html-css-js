@@ -58,10 +58,10 @@ https://shalini-k-git.github.io/dictionary-html-css-js/
 
 ---
 
-👩‍💻 Author
+## 👩‍💻 Author
+**Shalini K**  
 
-Shalini K
-GitHub: https://github.com/shalini-k-git
-LinkedIn:
-Email:
+- 🌐 GitHub: [Shalini_K](https://github.com/shalini-k-git)  
+- 💼 LinkedIn: [Shalini K](https://www.linkedin.com/in/shalini-k10/)  
+- 📧 Email: shalinikandaswamy10@gmail.com
 
